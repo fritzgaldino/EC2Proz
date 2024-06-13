@@ -34,5 +34,6 @@ A banda de Miguel te contratou para ajudá-los na criação de uma instância EC
 
 6. Explorando recursos:
 - use comandos, como ls, df -h, mount e cat, para verificar o status do volume montado, o espaço em disco disponível e o conteúdo do arquivo criado
+- ls /data, df -h, mount | grep /data, cat /data/meuarquivo01.txt
 
 <img width="442" alt="exercicioEC2_01" src="https://github.com/fritzgaldino/EC2Proz/assets/87190206/f0aafa80-1590-443b-8907-5776d0d36270">
